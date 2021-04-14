@@ -1,19 +1,19 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '29ac1e022b6f4f68ab3f12168b790ee9',
+  rootNotionPageId: 'b827e9daefa74a38bc03a75e7d6b8ef8',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'XO',
-  domain: 'https://www.notion.so/XO-29ac1e022b6f4f68ab3f12168b790ee9',
-  author: 'A',
+  name: 'yrA',
+  domain: 'https://www.notion.so/yrA-b827e9daefa74a38bc03a75e7d6b8ef8',
+  author: 'yrA',
 
   // open graph metadata (optional)
   description: 'Example site description',
-  socialImageTitle: 'Transitive Bullshit',
+  socialImageTitle: 'YRA',
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
